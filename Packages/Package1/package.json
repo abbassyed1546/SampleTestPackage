@@ -1,0 +1,8 @@
+﻿{
+  "name": "sample-test-pkg1",
+  "version": "1.1.0",
+  "description": "This is test package 1",
+  "repository": "https://github.com/abbassyed1546/SampleTestPackage/tree/master/Packages/Package1",
+  "license": "MIT",
+  }
+}
