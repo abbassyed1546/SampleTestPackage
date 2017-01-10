@@ -1,0 +1,13 @@
+﻿{
+
+  "name": "sample-test-common-pkg3",
+
+  "version": "1.1.7",
+
+  "description": "this is test for pkg 3",
+ 
+  "ignore": [
+    "*",
+     "!Package2/Package2.txt"]
+
+}
