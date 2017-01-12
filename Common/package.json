@@ -1,8 +1,9 @@
 {
   "name": "sample-test-all",
-  "version": "1.1.8",
+  "version": "1.1.10",
   "description": "This is test package for common",
   "repository": "https://github.com/abbassyed1546/SampleTestPackage/tree/master/Common",
   "license": "MIT",
-   "files": ["Package1/, Package2/, Package3/"]
+  "files": [
+        "Package1/,Package2/,Package3/"      ]
 }
