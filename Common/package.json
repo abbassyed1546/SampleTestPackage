@@ -5,6 +5,6 @@
   "repository": "https://github.com/abbassyed1546/SampleTestPackage/tree/master/Common",
   "license": "MIT",
   "files": [
-        "Package1/,Package2/,Package3/"
+        "Package1/","Package2/","Package3/"
          ]
 }
