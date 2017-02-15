@@ -1,8 +1,7 @@
 ﻿{
-  "name": "sample-test-common",
+  "name": "@types/sampletest",
   "version": "1.1.13",
   "scripts": {
-  "prepublish": "xcopy Packages Common /y /s /i"},
   "description": "This is test",
   "license": "MIT",
   "files": [
